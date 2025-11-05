@@ -37,8 +37,8 @@ Este projeto foi construído 100% "do zero" (sem kits iniciais como Breeze ou Je
 
 1.  **Clone o repositório:**
     ```bash
-    # ATUALIZE COM A URL DO SEU REPOSITÓRIO!
-    git clone [https://github.com/SeuUsuario/pollmaster-laravel.git](https://github.com/SeuUsuario/pollmaster-laravel.git)
+    
+    git clone [https://github.com/AndreVictorStremel/enquetes-php.git]
     cd pollmaster-laravel
     ```
     
